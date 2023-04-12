@@ -1,4 +1,4 @@
-# Flask GPT3 API
+# Flask GPT3 API (with fine tuning)
 
 This is a simple Flask app that uses OpenAI's GPT-3 API to generate text based on a user's prompt. The app includes a simple HTML form where users can input their prompt and API key, as well as upload a text file to be used as part of the GPT-3 training data.
 
