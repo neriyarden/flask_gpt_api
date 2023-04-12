@@ -1,0 +1,19 @@
+# Python
+*.pyc
+__pycache__/
+
+# macOS
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+
+# Logs and temp files
+logs/
+temp/
+
+# Virtual environments
+venv/
+env/
+myprojectenv/
